@@ -1,4 +1,4 @@
-# Maxime Gibier
+<img src="assets/header.png" alt="Maxime Gibier — Product Owner / Digital project manager. Between strategy, design and code." width="100%" />
 
 Product Owner. I frame, design and ship digital products, from the first discovery
 workshop to production. If I also do mockups and code, it's to understand a subject
